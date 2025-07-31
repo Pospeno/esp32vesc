@@ -1,0 +1,1 @@
+{"name":"ESP32 VESC Monitor","short_name":"VESC Monitor","start_url":"/esp32vesc/","display":"standalone","background_color":"#ffffff","theme_color":"#288feb","lang":"en","scope":"/esp32vesc/","icons":[{"src":"pwa-icon-192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-icon-512.png","sizes":"512x512","type":"image/png"}]}
